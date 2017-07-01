@@ -3,3 +3,6 @@ main: plugin\Main
 version: 1.0v
 api: 3.0.0
 author: groupPluginer
+commands:
+  hello:
+      description: make player setgamemode 1
